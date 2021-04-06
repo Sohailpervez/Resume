@@ -2,9 +2,9 @@
 ==============================
 
 #### PERSONAL INFORMATION
- - Father Name : xxxxxxxxxx
- - Email_id : xxxxxxxxxxxxx
- - Phone_no : xxxxxxxxxx
+ - Father Name : SHAIK MOHAMMAD RAFI
+ - Email_id : shaiksohailpervez@gmail.com
+ - Phone_no : 7674984677
  - Address : Guntur
 
 ##### EDUCATIONAL DETAILS
