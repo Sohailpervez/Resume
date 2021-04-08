@@ -1,4 +1,4 @@
-# SHAIK SOHAL PERVEZ
+# SHAIK SOHAIL PERVEZ
 ==============================
 
 #### PERSONAL INFORMATION
